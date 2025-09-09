@@ -1,5 +1,8 @@
 # StoryMap ArcGIS: Zonificación del Cultivo de Guayaba en Roldanillo, Valle del Cauca - Colombia 🌍🌱
 
+![QGIS](https://img.shields.io/badge/QGIS-3.22-green?style=flat&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-Online-blue?style=flat&logo=arcgis&logoColor=white)
+
 Este proyecto es un StoryMap interactivo creado en ArcGIS Online para la planeación del proyecto productivo de guayaba (Psidium guajava, L.) en el municipio de Roldanillo, departamento de Valle del Cauca, Tolima se analizó las características edafoclimáticas de la zona, con la fisiología y los requerimientos del cultivo, con el fin de  determinar la aptitud de las diversas zonas del municipio para el establecimiento del mismo. 
 
 La elaboración de mapas y el analisis de la información recopilada se hizo por medio del software QGIS 3.22 con división veredal como apoyo gráfico para el análisis. Análisis de las variables caracterizadas y su relación con la Ecofisiología del cultivo. Demuestra mis habilidades en GIS para narrar datos agrícolas de manera visual e interactiva.
