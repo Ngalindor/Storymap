@@ -24,9 +24,9 @@ La elaboración de mapas y el analisis de la información recopilada se hizo por
 
 ## Visualizaciones
 Aquí algunos screenshots:
-![Mapa Zonificación Cultivo de Guayaba](Images\Zonificación_Guayaba_page-0001.jpg)
-![Mapa Precipitacion](Images\PrecipitacionFinal_page-0001.jpg)
-![Mapa Fertilidad del Suelo](Images\FertilidadFinal_page-0001.jpg)
+![Mapa Zonificación Cultivo de Guayaba](Zonificación_Guayaba_page-0001.jpg)
+![Mapa Precipitacion](PrecipitacionFinal_page-0001.jpg)
+![Mapa Fertilidad del Suelo](FertilidadFinal_page-0001.jpg)
 
 ## Instrucciones para Explorar
 - Accede al enlace arriba.
